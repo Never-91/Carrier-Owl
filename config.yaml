@@ -1,6 +1,6 @@
 # arxivの学問領域の指定
 subject: 'cs'
-
+#stat
 # 検索キーワード
 keywords:
         kaggle: 3
